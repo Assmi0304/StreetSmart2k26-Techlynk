@@ -76,6 +76,9 @@ Data sources: NCRB · MORTH · Census of India
 <!-- Add your team member names here -->
 
 1.Assmi Singh
-2.Vansh CHaturvedi
+
+2.Vansh Chaturvedi
+
 3.Anshika Dixit
+
 4.Prakhar Dubey
